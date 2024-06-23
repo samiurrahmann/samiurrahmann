@@ -1,4 +1,4 @@
-## Hi there  👋 I'm samiur Rahman 
+## Hi there  👋 I'm Samiur Rahman 
 
 
 **samiurrahmann/samiurrahmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
