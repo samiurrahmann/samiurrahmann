@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **snsamiur444@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>   <p><img align="right"  src="https://github.com/user-attachments/assets/9ad517b7-e8f4-45c5-b43a-7b367a9f3cea" alt="samiurrahmann" /></p>
 <p align="left">
 <a href="https://linkedin.com/in/samiur-rahmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiur-rahmann" height="30" width="40" /></a>
 <a href="https://fb.com/samiurrahmannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samiurrahmannn" height="30" width="40" /></a>
