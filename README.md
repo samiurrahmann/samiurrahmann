@@ -26,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samiurrahmann&show_icons=true&locale=en" alt="samiurrahmann" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiurrahmann&" alt="samiurrahmann" /></p>
+
+<p><img align="center" src="https://github.com/user-attachments/assets/feccb522-8733-4eed-9c4b-156a6777c96a" alt="samiurrahmann" /></p>
+
+
