@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB**
 
-- 📫 How to reach me **snsamiur444@gmail.com**
+- 📫 How to reach me **info.samiurrahman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>   <p><img align="right"  src="https://github.com/user-attachments/assets/9ad517b7-e8f4-45c5-b43a-7b367a9f3cea" alt="samiurrahmann" /></p>
 <p align="left">
